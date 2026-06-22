@@ -1,0 +1,10 @@
+{
+  "build": {
+    "nixpacks": {
+      "plan": {
+        "providers": ["python"],
+        "apt": ["ffmpeg"]
+      }
+    }
+  }
+}
