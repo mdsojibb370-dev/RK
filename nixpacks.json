@@ -1,4 +1,0 @@
-{
-  "providers": ["python"],
-  "apt": ["ffmpeg"]
-}
